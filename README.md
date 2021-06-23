@@ -8,6 +8,7 @@ Currently, I'm working as **Technical Lead** in [**Sayburgh Solutions**](https:/
 
 ### Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [Use SweetAlert2 with Laravel Livewire](https://dev.to/mahmudulhsn/use-sweetalert2-with-laravel-livewire-49ij)
 - [Laravel Has Many Through Relationship Explained with Example](https://dev.to/mahmudulhsn/laravel-has-many-through-relationship-explained-with-example-22p4)
 - [Update existing table's column with migration without losing data in Laravel](https://dev.to/mahmudulhsn/update-existing-table-with-migration-without-losing-in-data-in-laravel-fb1)
 <!-- BLOG-POST-LIST:END -->
