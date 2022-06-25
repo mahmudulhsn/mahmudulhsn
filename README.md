@@ -3,7 +3,7 @@
 
 I am [Mahmudul Hasan Hasib](https://mhhasib.com), a full-stack web developer with real-world experience in **Laravel**, **Express JS**. As well as skilled in relational and non-relational databases, software design patterns. Also highly skilled **REST API** and **GraphQL**. I love to share knowledge with others.
 
-I worked as as **Senior Software Engineer** in [**Arisaf Tech Ltd.**](https://arisaftech.com/).
+I am working as as **Senior Software Engineer** in [**Arisaf Tech Ltd.**](https://arisaftech.com/).
 
 
 ### Latest Blog Articles
