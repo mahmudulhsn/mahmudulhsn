@@ -3,7 +3,7 @@
 
 I am [Mahmudul Hasan Hasib](https://mhhasib.com), a full-stack web developer with real-world experience in **Laravel**, **Express JS**, **Vue JS**, **Laravel Livewire**, **Alpine JS**, **Tailwind CSS**, **Bootstrap**. As well as skilled in relational and non-relational databases, software design patterns. Also highly skilled **REST API** and **GraphQL**. I love to share knowledge with others.
 
-I am working as as **Senior Software Engineer** in [**Arisaf Tech Ltd.**](https://arisaftech.com/).
+I am working as as **Senior Software Engineer** in [**Arisaf Tech Ltd**](https://arisaftech.com/).
 
 
 ### Latest Blog Articles
