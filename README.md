@@ -6,7 +6,7 @@ I am [Mahmudul Hasan Hasib](https://mhhasib.com), a full-stack web developer wit
 I am working as as **Senior Software Engineer** in [**Arisaf Tech Ltd**](https://arisaftech.com/).
 
 
-[![Linkedin Badge](https://img.shields.io/badge/mahmudulhsn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mhhasib/)](https://www.linkedin.com/in/mhhasib/)
+[![Linkedin Badge](https://img.shields.io/badge/mhhasib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mhhasib/)](https://www.linkedin.com/in/mhhasib/)
 [![Dev.to Badge](https://img.shields.io/badge/M%20H%20Hasib-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/mahmudulhsn/)](https://dev.to/mahmudulhsn)
 [![Youtube Badge](https://img.shields.io/badge/M%20H%20Hasib-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/mhhasib)](https://www.youtube.com/mhhasib)
 [![Twitter Badge](https://img.shields.io/badge/mahmudulhsn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mahmudulhsn/)](https://twitter.com/mahmudulhsn/)
@@ -20,6 +20,8 @@ I am working as as **Senior Software Engineer** in [**Arisaf Tech Ltd**](https:/
 ![Laravel Framework](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React JS](https://img.shields.io/badge/ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
