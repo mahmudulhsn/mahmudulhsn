@@ -36,7 +36,7 @@ I am working as **Senior Software Engineer** in [**Arisaf Tech Ltd**](https://ar
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulhsn&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudulhsn&theme=radical&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahmudulhsn)](https://git.io/streak-stats)
 
 ### Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
