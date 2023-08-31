@@ -34,7 +34,7 @@ I am working as **Senior Software Engineer** in [**Arisaf Tech Ltd**](https://ar
 ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![M H Hasib's github stats](https://github-readme-stats.vercel.app/api?username=mahmudulhsn&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulhsn&show_icons=true&theme=radical)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudulhsn&theme=radical&hide_border=true"/>
 
