@@ -36,8 +36,6 @@ I am working as **Senior Software Engineer** in [**Arisaf Tech Ltd**](https://ar
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulhsn&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahmudulhsn)](https://git.io/streak-stats)
-
 ### Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
 - [Use SweetAlert2 with Laravel Livewire](https://dev.to/mahmudulhsn/use-sweetalert2-with-laravel-livewire-49ij)
