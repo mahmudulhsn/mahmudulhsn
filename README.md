@@ -40,6 +40,9 @@ I am working as **Senior Software Engineer** in [**Arisaf Tech Ltd**](https://ar
 
 ### Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Passport: API authentication with access and refresh token](https://dev.to/mahmudulhsn/laravel-passport-api-authentication-with-access-and-refresh-token-16d0)
+- [Install Husky in your project for proper commit lint with pre-commit hooks](https://dev.to/mahmudulhsn/install-husky-in-your-project-for-proper-commit-lint-with-pre-commit-hooks-25b2)
+- [Use SweetAlert2 with Laravel Livewire](https://dev.to/mahmudulhsn/use-sweetalert2-with-laravel-livewire-49ij)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Blog Articles
