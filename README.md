@@ -43,6 +43,7 @@ I am working as **Senior Software Engineer** in [**Arisaf Tech Ltd**](https://ar
 - [Laravel Passport: API authentication with access and refresh token](https://dev.to/mahmudulhsn/laravel-passport-api-authentication-with-access-and-refresh-token-16d0)
 - [Install Husky in your project for proper commit lint with pre-commit hooks](https://dev.to/mahmudulhsn/install-husky-in-your-project-for-proper-commit-lint-with-pre-commit-hooks-25b2)
 - [Use SweetAlert2 with Laravel Livewire](https://dev.to/mahmudulhsn/use-sweetalert2-with-laravel-livewire-49ij)
+- [Laravel Has Many Through Relationship Explained with Example](https://dev.to/mahmudulhsn/laravel-has-many-through-relationship-explained-with-example-22p4)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://dev.to/mahmudulhsn/)
